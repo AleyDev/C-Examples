@@ -1,5 +1,6 @@
 #include <stdio.h>  // Gerekli kütüphaneyi dahil ediyorum
 
+
 int main() {
     double kilo, boy, vki;  // Değişkenleri tanımlıyorum
 
