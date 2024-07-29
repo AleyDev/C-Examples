@@ -2,7 +2,7 @@
 
 
 int main() {
-    double kilo, boy, vki;  // Değişkenleri tanımlıyorum
+    double kilo, boy, vki;  // Değişkenleri tanımlıyorum 
 
     // Kullanıcıdan boy ve kilo değerlerini girmesini istiyorum
     printf("Boyunuzu metre cinsinden girin (örneğin, 1.75): ");
